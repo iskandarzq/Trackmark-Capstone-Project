@@ -1,2 +1,0 @@
-C:/flutter/projects/Iskandar Part/android/app/.cxx/Debug/1c3x6r51/x86_64/CMakeFiles/edit_cache.dir
-C:/flutter/projects/Iskandar Part/android/app/.cxx/Debug/1c3x6r51/x86_64/CMakeFiles/rebuild_cache.dir
