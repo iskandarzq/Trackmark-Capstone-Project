@@ -1,16 +1,11 @@
 # trackmark
 
-A new Flutter project.
+A Machine Learning based mobile application that can recommend the most accurate online marketing campaign based on an SME's historical dataset.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Set up Flutter and Dart environment.
+2. Install and set up Android Studio emulator.
+3. Run it through an IDE and then launch the app through main.dart located /lib.
+4. Log in to the application using this account: testing@gmail.com 601234567890 test12@
+5. Use this dataset for testing the ML model: https://drive.google.com/drive/folders/14kV3NTVmkVp4rMYssMYAAa5zSJMvQIeF?usp=drive_link
